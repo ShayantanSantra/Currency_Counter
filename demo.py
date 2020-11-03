@@ -4,9 +4,9 @@ import smtplib
 
 
  
-TO = 'santrashayantan@gmail.com'
-GMAIL_USER = 'santrashayantan@gmail.com'
-GMAIL_PASS = ''//Enter your password!
+TO = ''#Enter your mail ID
+GMAIL_USER = ''#Enter your mail ID
+GMAIL_PASS = ''#Enter your password!
  
 SUBJECT = 'Currency Counter Status'
 
